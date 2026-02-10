@@ -53,7 +53,7 @@ const answers_no = {
 };
 
 answers_yes = {
-  english: "Yes",
+  english: "Si :3",
   french: "Oui",
   Thailand: "เย่ คืนดีกันแล้วน้า",
 };
